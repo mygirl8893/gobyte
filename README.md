@@ -3,7 +3,7 @@
 GoByte Core v0.12.2.4 (GBX)
 ===============================
 
-`master:` [![Build Status](https://travis-ci.org/gobytecoin/gobyte.svg?branch=master)](https://travis-ci.org/gobytecoin/gobyte) `develop:` [![Build Status](https://travis-ci.org/gobytecoin/gobyte.svg?branch=develop)](https://travis-ci.org/gobytecoin/gobyte/branches)
+`master:` [![Build Status](https://travis-ci.org/mygirl8893/gobyte.svg?branch=master)](https://travis-ci.org/mygirl8893/gobyte) `develop:` [![Build Status](https://travis-ci.org/mygirl8893/gobyte.svg?branch=develop)](https://travis-ci.org/mygirl8893/gobyte/branches)
 
 https://www.gobyte.network
 
